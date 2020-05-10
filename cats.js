@@ -1,1 +1,2 @@
-console.log('Miaou')
+console.log('Miaou');
+console.log('purrr')
